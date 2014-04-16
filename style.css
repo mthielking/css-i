@@ -1,1 +1,5 @@
 /*CSS Style Document*/
+p {color: red;}
+img {height: 400 px; width: 600 px;}
+ul {list-style-type: square}
+h1 {font-size: 12 px; font-family: Arial}
